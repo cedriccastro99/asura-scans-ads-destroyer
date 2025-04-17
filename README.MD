@@ -1,6 +1,6 @@
 # 🚫 ASAD: Asura Scans Ads Destoryer
 
-**ASAD** Remove annoying asura scans pop-up ads while you are reading on (https://asuracomic.net/)[https://asuracomic.net/]
+**ASAD** Remove annoying asura scans pop-up ads while you are reading on [https://asuracomic.net](https://asuracomic.net/)
 
 ---
 
